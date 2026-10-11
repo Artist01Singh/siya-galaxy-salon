@@ -1,0 +1,6 @@
+{
+  "name": "Siya Galaxy Salon",
+  "description": "Premium hair styling, beauty rituals, bridal makeovers, and nail artistry in Laxmi Nagar, Delhi. Book appointments online with real-time slot availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

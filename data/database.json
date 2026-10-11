@@ -1,0 +1,409 @@
+{
+  "settings": {
+    "salonName": "Siya Galaxy Salon",
+    "tagline": "Luxury Hair, Beauty Rituals & Bridal Artistry",
+    "category": "Unisex Hair & Beauty Salon",
+    "phone": "+91 72176 44360",
+    "email": "contact@siyagalaxysalon.com",
+    "address": "Near Metro Pillar No. 33, Vikas Marg, Laxmi Nagar",
+    "landmark": "Near Laxmi Nagar Metro Station",
+    "city": "New Delhi",
+    "pincode": "110092",
+    "googleMapsUrl": "https://maps.app.goo.gl/L2Wpk8mx8ki1924a6",
+    "established": "April 2023",
+    "rating": 5,
+    "reviewCount": 119,
+    "slotIntervalMinutes": 30,
+    "maxConcurrentBookings": 3,
+    "weeklySchedule": [
+      {
+        "day": "monday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      },
+      {
+        "day": "tuesday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      },
+      {
+        "day": "wednesday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      },
+      {
+        "day": "thursday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      },
+      {
+        "day": "friday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      },
+      {
+        "day": "saturday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      },
+      {
+        "day": "sunday",
+        "isOpen": true,
+        "openTime": "10:00",
+        "closeTime": "21:00"
+      }
+    ],
+    "blockedDates": []
+  },
+  "services": [
+    {
+      "id": "srv-nanoplastia",
+      "name": "Nanoplastia Silk Infusion Treatment",
+      "category": "hair",
+      "durationMinutes": 180,
+      "price": 3999,
+      "description": "Advanced formaldehyde-free organic hair straightening and deep restructuring treatment that delivers long-lasting mirror shine and velvet softness.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-keratin",
+      "name": "Keratin Smoothing Therapy",
+      "category": "hair",
+      "durationMinutes": 150,
+      "price": 3499,
+      "description": "Deep protein infusion that eliminates unruly frizz, restores hydration, and transforms dry damaged hair into manageable silky tresses.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-botoplex",
+      "name": "Botoplex Collagen Hair Repair",
+      "category": "hair",
+      "durationMinutes": 120,
+      "price": 2999,
+      "description": "Intensive restorative molecular treatment with peptides, collagen, and caviar extract for weakened or chemically treated hair.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1560869713-7d0a29430803?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-balayage",
+      "name": "Artisanal Balayage & Highlights",
+      "category": "hair",
+      "durationMinutes": 150,
+      "price": 3200,
+      "description": "Custom hand-painted multidimensional highlights and seamless ombre transitions personalized for Indian undertones with bond-protecting plex.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-color-global",
+      "name": "Global Hair Color & Gloss",
+      "category": "hair",
+      "durationMinutes": 90,
+      "price": 1999,
+      "description": "Rich ammonia-free global root-to-tip coloring with nourishing argan oil infusion and high-shine glossing finish.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-cut-blowdry",
+      "name": "Signature Precision Cut & Blowdry",
+      "category": "hair",
+      "durationMinutes": 45,
+      "price": 500,
+      "description": "Bespoke consultation, shampoo wash, conditioning, textured precision haircut tailored to facial structure, and glamorous salon blowdry.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-hair-spa",
+      "name": "Deep Nourishing Scalp & Hair Spa",
+      "category": "hair",
+      "durationMinutes": 60,
+      "price": 899,
+      "description": "Detoxifying scalp scrub, steam infusion, essential oil massage, and deep moisture hair mask to combat pollution and stress.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-hydra-facial",
+      "name": "Hydra-Facial Deep Clean & Glow Ritual",
+      "category": "skin",
+      "durationMinutes": 75,
+      "price": 1799,
+      "description": "Multi-step clinical suction pore cleanse, blackhead extraction, antioxidant infusion, ultrasound serum penetration, and cold hammer firming.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-o3-bridal-facial",
+      "name": "O3+ Luxury Radiance & Brightening Facial",
+      "category": "skin",
+      "durationMinutes": 90,
+      "price": 2499,
+      "description": "Professional grade dermatological brightening facial delivering instant translucent bridal glow, evening out hyperpigmentation.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-diamond-facial",
+      "name": "Diamond Micro-Derm Polish Facial",
+      "category": "skin",
+      "durationMinutes": 60,
+      "price": 1299,
+      "description": "Gentle exfoliating diamond-dust scrub with hydrating botanical masks to rejuvenate dull tired skin cells.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-detan-therapy",
+      "name": "Herbal De-Tan & Glow Treatment",
+      "category": "skin",
+      "durationMinutes": 45,
+      "price": 699,
+      "description": "Fast-acting botanical detan formulation that gently lifts sun damage, tan, and impurities without stripping natural skin moisture.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-deep-cleanse",
+      "name": "Pore Clarifying Purifying Clean-up",
+      "category": "skin",
+      "durationMinutes": 45,
+      "price": 599,
+      "description": "Steamed extraction, gentle gentle scrubbing, and antibacterial tea-tree mask for clear, balanced, oil-free complexion.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-hd-bridal",
+      "name": "Signature HD Bridal Makeover",
+      "category": "bridal",
+      "durationMinutes": 180,
+      "price": 7999,
+      "description": "High-definition long-wear bridal makeup, premium skin prep, designer bridal hairstyle, jewelry fitting, and meticulous dupatta/saree draping.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-airbrush-bridal",
+      "name": "Luxury Airbrush Bridal Masterpiece",
+      "category": "bridal",
+      "durationMinutes": 210,
+      "price": 11999,
+      "description": "Featherlight waterproof airbrush perfection lasting 18+ hours, mink lashes, custom bridal hair ornamentation, and full wedding jewelry placement.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-engagement-glam",
+      "name": "Engagement & Cocktail Glamour",
+      "category": "bridal",
+      "durationMinutes": 120,
+      "price": 3999,
+      "description": "Striking evening glamorous makeover with smokey eye or subtle shimmer, sculpted facial contouring, and modern soft-wave hairstyle.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-party-makeup",
+      "name": "Party Glow Makeup & Saree Draping",
+      "category": "bridal",
+      "durationMinutes": 90,
+      "price": 2199,
+      "description": "Luminous event makeup suitable for bridesmaids and family functions, accompanied by classic hairstyle and saree/lehenga draping.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1516914943479-89db7d9ae7f2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-nail-extensions",
+      "name": "Gel Nail Extensions & Artistic Accents",
+      "category": "nails",
+      "durationMinutes": 90,
+      "price": 1499,
+      "description": "Long-lasting lightweight tip extensions sculpted with salon-grade gel, finished with choice of chrome, French tip, or glitter artistry.",
+      "popular": true,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-gel-polish",
+      "name": "Signature UV Gel Polish & Gloss",
+      "category": "nails",
+      "durationMinutes": 45,
+      "price": 699,
+      "description": "Chip-resistant high-shine gel application on natural nails cured under LED light for 3+ weeks of flawless beauty.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-spa-pedicure-manicure",
+      "name": "Deluxe Aromatherapy Mani-Pedi Spa",
+      "category": "nails",
+      "durationMinutes": 75,
+      "price": 1199,
+      "description": "Hygienic warm sea salt foot bath, exfoliating pumice scrub, cuticle conditioning, reflexology massage, and buffed polish finish.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-threading-detan",
+      "name": "Precision Threading & Brow Detan",
+      "category": "grooming",
+      "durationMinutes": 30,
+      "price": 349,
+      "description": "Pain-minimized organic thread shaping for eyebrows, upper lip, chin, finished with soothing ice compress and aloe detan.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-rica-wax",
+      "name": "Rica White Chocolate Body Waxing",
+      "category": "grooming",
+      "durationMinutes": 60,
+      "price": 1299,
+      "description": "Colophony-free Italian liposoluble wax formulated with glyceryl rosinate, minimizing discomfort and redness on delicate skin.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "srv-beard-sculpt",
+      "name": "Men's Precision Beard Styling & Trim",
+      "category": "grooming",
+      "durationMinutes": 30,
+      "price": 300,
+      "description": "Hot towel relaxation, razor-sharp edge definition, beard trimming, and nourishing botanical beard oil treatment.",
+      "popular": false,
+      "isActive": true,
+      "imageUrl": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "name": "Sunita Verma",
+      "rating": 5,
+      "date": "August 2024",
+      "source": "Justdial",
+      "comment": "Visited Siya Galaxy Salon right near pillar 33 for hair straightening and botoplex treatment. The staff is exceptionally polite and the salon is spotless and spacious. Genuinely great value in Laxmi Nagar!",
+      "serviceMentioned": "Botoplex & Straightening"
+    },
+    {
+      "id": "rev-2",
+      "name": "Aman Arora",
+      "rating": 5,
+      "date": "January 2025",
+      "source": "Google",
+      "comment": "Got a haircut and beard grooming done here. The stylist really understands modern hair trends and takes his time. Very hygienic, welcoming, and budget friendly.",
+      "serviceMentioned": "Haircut & Men's Grooming"
+    },
+    {
+      "id": "rev-3",
+      "name": "Priya Malhotra",
+      "rating": 5,
+      "date": "November 2024",
+      "source": "Justdial",
+      "comment": "Had my engagement makeup and bridal gel nail extensions done here. Truly professional work! Everyone at the party was complimenting my look. The air-conditioned salon is clean and peaceful.",
+      "serviceMentioned": "Engagement Makeup & Nails"
+    },
+    {
+      "id": "rev-4",
+      "name": "Meenakshi Sharma",
+      "rating": 5,
+      "date": "February 2025",
+      "source": "Google",
+      "comment": "Super polite staff, welcoming atmosphere, and transparent pricing without hidden charges. The Hydra facial and hair spa were extremely relaxing. Highly recommended salon in East Delhi.",
+      "serviceMentioned": "Hydra Facial & Hair Spa"
+    },
+    {
+      "id": "rev-5",
+      "name": "Deepak Saxena",
+      "rating": 5,
+      "date": "December 2024",
+      "source": "Google",
+      "comment": "Clean environment, experienced stylists, and quick service right next to Laxmi Nagar Metro Station. They use genuine products and ensure customer satisfaction.",
+      "serviceMentioned": "Hair Care & Detan"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-sample-1",
+      "reference": "SGS-2026-9481",
+      "serviceId": "srv-nanoplastia",
+      "serviceName": "Nanoplastia Silk Infusion Treatment",
+      "customerName": "Kavita Joshi",
+      "customerEmail": "kavita.j@example.com",
+      "customerPhone": "9810123456",
+      "date": "2026-10-12",
+      "time": "11:00",
+      "durationMinutes": 180,
+      "price": 3999,
+      "notes": "Special event coming up, prefers gentle scalp touch.",
+      "status": "confirmed",
+      "createdAt": "2026-10-11T10:15:20.330Z",
+      "updatedAt": "2026-10-11T10:15:20.330Z"
+    },
+    {
+      "id": "bk-sample-2",
+      "reference": "SGS-2026-8820",
+      "serviceId": "srv-hydra-facial",
+      "serviceName": "Hydra-Facial Deep Clean & Glow Ritual",
+      "customerName": "Rohit Khanna",
+      "customerEmail": "rohit.k@example.com",
+      "customerPhone": "9871654321",
+      "date": "2026-10-12",
+      "time": "14:30",
+      "durationMinutes": 75,
+      "price": 1799,
+      "notes": "Sensitive skin near cheekbones.",
+      "status": "confirmed",
+      "createdAt": "2026-10-11T10:15:20.330Z",
+      "updatedAt": "2026-10-11T10:15:20.330Z"
+    },
+    {
+      "id": "bk-1791713752671-6iay",
+      "reference": "SGS-2026-2664",
+      "serviceId": "srv-nanoplastia",
+      "serviceName": "Nanoplastia Silk Infusion Treatment",
+      "customerName": "Riya Sen",
+      "customerEmail": "riya@example.com",
+      "customerPhone": "9876543210",
+      "date": "2026-10-12",
+      "time": "12:00",
+      "durationMinutes": 180,
+      "price": 3999,
+      "notes": "First time visit",
+      "status": "cancelled",
+      "createdAt": "2026-10-11T10:15:52.671Z",
+      "updatedAt": "2026-10-11T10:15:58.290Z"
+    }
+  ],
+  "adminUsers": []
+}
